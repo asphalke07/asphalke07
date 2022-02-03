@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=asphalke07&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asphalke07)](https://github.com/asphalke07/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asphalke07)](https://github.com/asphalke07/github-readme-stats) -->
