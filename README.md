@@ -25,7 +25,7 @@
 - 🌱 I continuously explore new technologies and better ways to design and ship software
 - 🎯 I value intuitive interfaces, maintainable code, and products that solve real problems
 - 🤝 I am open to collaborating on interesting web and software projects
-- 💬 Ask me about JavaScript, React, Node.js, or full-stack development
+- 💬 Ask me about JavaScript, React, Node.js, or building web applications
 
 ## 🧰 Technology toolbox
 
@@ -67,7 +67,7 @@
 | **[CHAT-ME](https://github.com/asphalke07/CHAT-ME)** | A web-based chat application for real-time conversations | JavaScript |
 | **[Blog-It](https://github.com/asphalke07/Blog-It)** | A simple platform for creating and sharing blog posts | JavaScript |
 | **[Crypto Tracker](https://github.com/asphalke07/crypto_tracker)** | An application for following cryptocurrency information | JavaScript |
-| **[Productivity Helper](https://github.com/asphalke07/Productivity-Helper)** | A web app designed to support everyday productivity | EJS |
+| **[Productivity Helper](https://github.com/asphalke07/Productivity-Helper)** | A web app designed to support everyday productivity | JavaScript / EJS |
 
 <div align="center">
   <a href="https://github.com/asphalke07?tab=repositories">
